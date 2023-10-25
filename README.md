@@ -1,3 +1,3 @@
 | Nama             | NRP               |
-| ---------------- | ----------------: |
-| Graidy Megananda | right-aligned     |
+| ---------------- | ----------------  |
+| Graidy Megananda | 5025201188        |
