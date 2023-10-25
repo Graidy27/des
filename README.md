@@ -1,1 +1,3 @@
-# des
+| Nama             | NRP               |
+| ---------------- | ----------------: |
+| Graidy Megananda | right-aligned     |
